@@ -1,0 +1,19 @@
+body {
+  background-color: hotpink;
+}
+
+section {
+  background-color: aqua;
+}
+
+header {
+  background-color: red;
+}
+
+footer {
+  background-color: aquamarine;
+}
+
+.section2 {height: 90px;
+  background-color: violet;
+}
