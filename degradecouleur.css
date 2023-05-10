@@ -1,0 +1,6 @@
+.rond{float:left;
+    background-image: linear-gradient(to right, rgb(94, 255, 0),rgb(207, 158, 67),yellow,rgb(5, 255, 5),blue,rgb(84, 9, 138),violet);
+    width: 400px;
+    height:400px;
+    border-radius:50%;
+}
