@@ -1,0 +1,39 @@
+header {
+  color: white;
+  font-size: 30px;
+  text-align: center;
+  background-color: #8e3557;
+  height: 120px;
+}
+
+nav {
+  color: white;
+  font-size: 20px;
+  background-color: #4a1a2c;
+  height: 80px;
+}
+
+body {
+  width: 80%;
+  margin: auto;
+}
+
+main {
+  border: 20px solid #787746;
+}
+section {
+  background-color: #e6e2af;
+  height: 600px;
+  font-size: 20px;
+  color: black ;
+  text-align: center;
+
+}
+
+footer {
+    color: white;
+    font-size: 20px;
+    text-align: center;
+    background-color: #8e3557;
+    height: 90px;
+}
