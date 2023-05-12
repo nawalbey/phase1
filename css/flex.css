@@ -1,0 +1,36 @@
+.carre {
+  width: 80px;
+  height: 80px;
+  background-color: red;
+}
+.rectangle {
+  width: 80px;
+  height: 80px;
+  background-color: blue;
+  flex-basis: 250px;
+}
+.carre_2 {
+  width: 80px;
+  height: 80px;
+  background-color: blueviolet;
+}
+
+.cadre {
+    border: 2px solid orange;
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: space-around;
+    align-items: flex-end;
+    width: 100%;
+    height: 200px;
+}
+
+.cadre_2 {
+    border: 2px solid orange;
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 200px;
+}
